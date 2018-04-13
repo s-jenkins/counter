@@ -1,12 +1,12 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
-import com.sdj.blackjack.Card.Rank;
+import com.sdj.counter.Card.Rank;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import static com.sdj.blackjack.Card.*;
+import static com.sdj.counter.Card.*;
 
 public class Deck
 {

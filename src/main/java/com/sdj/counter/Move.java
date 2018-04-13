@@ -1,9 +1,6 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
-import com.sdj.blackjack.Rules.Action;
-
-import java.util.ArrayList;
-import java.util.List;
+import com.sdj.counter.Rules.Action;
 
 public class Move
 {

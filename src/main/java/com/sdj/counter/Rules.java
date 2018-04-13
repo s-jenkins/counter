@@ -1,4 +1,4 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
 import java.util.ArrayList;
 import java.util.List;

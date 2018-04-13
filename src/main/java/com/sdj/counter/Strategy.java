@@ -1,6 +1,6 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
-import com.sdj.blackjack.Rules.Action;
+import com.sdj.counter.Rules.Action;
 
 public interface Strategy
 {

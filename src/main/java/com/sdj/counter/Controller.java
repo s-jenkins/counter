@@ -1,10 +1,7 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
-import java.util.stream.IntStream;
-
-import static com.sdj.blackjack.Counter.HIGH_LOW;
+import static com.sdj.counter.Counter.HIGH_LOW;
 import static java.util.Arrays.stream;
-import static java.util.stream.IntStream.range;
 
 public class Controller
 {

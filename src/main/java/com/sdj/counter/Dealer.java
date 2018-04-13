@@ -1,7 +1,7 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
-import static com.sdj.blackjack.Rules.*;
-import static com.sdj.blackjack.Rules.Action.*;
+import static com.sdj.counter.Rules.*;
+import static com.sdj.counter.Rules.Action.*;
 
 public class Dealer implements Strategy
 {

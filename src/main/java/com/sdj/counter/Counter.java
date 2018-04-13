@@ -1,11 +1,7 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
-
-import static com.sdj.blackjack.Card.*;
 
 public class Counter
 {

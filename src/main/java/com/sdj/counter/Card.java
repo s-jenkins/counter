@@ -1,4 +1,4 @@
-package com.sdj.blackjack;
+package com.sdj.counter;
 
 public class Card
 {
