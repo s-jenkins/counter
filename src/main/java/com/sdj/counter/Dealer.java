@@ -11,7 +11,6 @@ public class Dealer implements Strategy
         if (value > 21) {
             return BUST;
         }
-        if ()
         if (value < 17) {
             return HIT;
         }

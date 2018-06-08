@@ -28,7 +28,7 @@ public class Card
         TEN(10, 'T'),
         JACK(10, 'J'),
         QUEEN(10, 'Q'),
-        KING(10, 'A');
+        KING(10, 'K');
 
         public int val;
         public char out;
