@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.List;
 
 import static com.sdj.counter.Card.*;
+import static java.util.Collections.*;
 
 public class Deck
 {
@@ -27,7 +28,7 @@ public class Deck
                 }
             }
         }
-        Collections.shuffle(cards);
+        shuffle(cards);
     }
 
     public Card up() {
