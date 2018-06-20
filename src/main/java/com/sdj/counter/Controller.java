@@ -7,9 +7,19 @@ public class Controller
 {
     public static void main(String[] p) {
 
-        Deck deck = new Deck(2, new Counter(HIGH_LOW));
+        Counter counter = new Counter(HIGH_LOW);
+        Deck deck = new Deck(6, counter);
         Hand p1 = new Hand(new RandomPick());
         Hand d = new Hand(new Dealer());
+
+        p1.init(deck.up(), deck.up());
+        d.init(deck.down(), deck.up());
+
+        System.out.println("P: " + p1);
+        System.out.println("d: " + d);
+        System.out.println("(" + counter.value + ")");
+
+
 
     }
 

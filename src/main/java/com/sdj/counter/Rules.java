@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Rules
 {
-    public enum Action { STAND, HIT, DOUBLE, SPLIT, BUST }
+    public enum Action { STAND, HIT, DOUBLE, SPLIT }
 
     public static List<Action> options(Hand hand) {
 

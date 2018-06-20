@@ -4,5 +4,5 @@ import com.sdj.counter.Rules.Action;
 
 public interface Strategy
 {
-    Action decide(int value, Card up, int count);
+    Action decide(Hand hand, Card up, int count);
 }
