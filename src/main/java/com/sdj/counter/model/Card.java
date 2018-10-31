@@ -1,4 +1,4 @@
-package com.sdj.counter;
+package com.sdj.counter.model;
 
 public class Card
 {

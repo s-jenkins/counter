@@ -1,5 +1,7 @@
 package com.sdj.counter;
 
+import com.sdj.counter.model.Card;
+
 import static com.sdj.counter.Rules.*;
 import static com.sdj.counter.Rules.Action.*;
 

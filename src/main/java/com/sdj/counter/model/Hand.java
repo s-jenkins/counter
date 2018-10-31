@@ -1,6 +1,8 @@
-package com.sdj.counter;
+package com.sdj.counter.model;
 
+import com.sdj.counter.Move;
 import com.sdj.counter.Rules.Action;
+import com.sdj.counter.Strategy;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,12 +1,13 @@
-package com.sdj.counter;
+package com.sdj.counter.model;
 
-import com.sdj.counter.Card.Rank;
+import com.sdj.counter.Counter;
+import com.sdj.counter.model.Card;
+import com.sdj.counter.model.Card.Rank;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
-import static com.sdj.counter.Card.*;
+import static com.sdj.counter.model.Card.*;
 import static java.util.Collections.*;
 
 public class Deck

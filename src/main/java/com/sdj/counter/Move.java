@@ -1,6 +1,7 @@
 package com.sdj.counter;
 
 import com.sdj.counter.Rules.Action;
+import com.sdj.counter.model.Card;
 
 public class Move
 {

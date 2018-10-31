@@ -1,5 +1,9 @@
 package com.sdj.counter;
 
+import com.sdj.counter.model.Card;
+import com.sdj.counter.model.Deck;
+import com.sdj.counter.model.Hand;
+
 import static com.sdj.counter.Counter.HIGH_LOW;
 import static java.util.Arrays.stream;
 

@@ -1,5 +1,7 @@
 package com.sdj.counter;
 
+import com.sdj.counter.model.Card;
+
 import java.util.HashMap;
 import java.util.Map;
 

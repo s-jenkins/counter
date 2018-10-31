@@ -1,5 +1,7 @@
 package com.sdj.counter;
 
+import com.sdj.counter.model.Hand;
+
 import java.util.ArrayList;
 import java.util.List;
 
