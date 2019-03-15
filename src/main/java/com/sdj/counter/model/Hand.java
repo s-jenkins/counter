@@ -30,7 +30,7 @@ public class Hand implements Comparable<Hand>
     private void accept(Card c)
     {
         if (aceCount() == 0) {
-            values.get(0) += c.rank.val;
+           // values.get(0) += c.rank.val;
         }
         cards.add(c);
     }
